@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1053552437793-c8pnn5nssbd6h4737tvp6lh159anidsa.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vinddd-efea1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1053552437793</string>
+    <string name="google_api_key" translatable="false">AIzaSyAqyhxEF6zSKzMfXkzq0vrk_P_FFo1wIbc</string>
+    <string name="google_app_id" translatable="false">1:1053552437793:android:00b7ecee09b41a78f01160</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqyhxEF6zSKzMfXkzq0vrk_P_FFo1wIbc</string>
+    <string name="google_storage_bucket" translatable="false">vinddd-efea1.appspot.com</string>
+    <string name="project_id" translatable="false">vinddd-efea1</string>
+</resources>
